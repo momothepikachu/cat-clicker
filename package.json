@@ -1,0 +1,46 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "eslintIgnore": [
+    "gulpfile.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "momo",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1",
+    "eslint-config-standard": "^11.0.0",
+    "eslint-plugin-import": "^2.13.0",
+    "eslint-plugin-node": "^6.0.1",
+    "eslint-plugin-promise": "^3.8.0",
+    "eslint-plugin-standard": "^3.1.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-jasmine-phantom": "^3.0.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-eslint": "^8.2.5",
+    "babel-preset-env": "^1.7.0",
+    "brackets-eslint": "^2.1.4",
+    "browser-sync": "^2.24.5",
+    "eslint": "^4.19.1",
+    "gulp-babel": "^7.0.1",
+    "gulp-cache": "^1.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-eslint": "^4.0.2",
+    "gulp-gzip": "^1.4.2",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.0",
+    "imagemin": "^5.3.1",
+    "imagemin-mozjpeg": "^7.0.0",
+    "imagemin-pngquant": "^5.1.0",
+    "phantomjs": "^2.1.7"
+  }
+}
