@@ -1,4 +1,5 @@
 # Cat Clicker!
+Use Gulp as the build tool for automating tasks; packages including lint, imagemin, babel, autoprefixer, etc.
 ## Project Requirements for Cat Clicker Premium
 ### Visuals
  - The application should display
