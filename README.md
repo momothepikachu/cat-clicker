@@ -2,7 +2,7 @@
 ## Project Requirements for Cat Clicker Premium
 ### Visuals
  - The application should display
-    - a list of at least 5 cats, listed by name
+    - a list of at least 3 cats, listed by name
     - an area to display the selected cat
  - In the cat display area, the following should be displayed
     - the cat's name
