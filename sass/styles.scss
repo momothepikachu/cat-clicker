@@ -20,6 +20,7 @@ body.center {
 h1,
 img {
 	padding: 10px;
+	-webkit-margin-after: 0.5em;
 }
 
 h1 {
@@ -35,4 +36,26 @@ h1 {
 
 img {
 	cursor: pointer;
+}
+
+button.admin {
+	padding: 5px 10px;
+	margin: 20px; 
+	border-radius: 12px;
+	font-weight: bold;
+}
+
+.form {
+	border: 5px outset lightgrey;
+	padding: 15px;
+}
+
+.form button {
+	width: 70px;
+	padding: 5px;
+	margin: 5px;
+}
+
+.hidden {
+	display: none;
 }
